@@ -30,7 +30,7 @@ dotenv (for API key handling)
 
 ⚙️ Setup & Installation
 1️⃣ Clone or Download the Repository
-git clone https://github.com/yourusername/multi-pdf-chatapp.git
+git clone https://github.com/K010208/Multi-pdf-chat-api
 cd multi-pdf-chatapp
 
 2️⃣ Create Virtual Environment
