@@ -1,0 +1,7 @@
+streamlit>=1.20
+langchain>=0.1.0
+langchain-google-genai>=0.1.0
+faiss-cpu
+PyPDF2
+tqdm
+python-dotenv
